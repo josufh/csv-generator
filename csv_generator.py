@@ -5,7 +5,6 @@ csv_filename = "kanji_n5_ankipro_cards.csv"
 
 with open(csv_filename, "w", newline="", encoding="utf-8") as file:
     writer = csv.writer(file)
-    writer.writerow(["Front", "Back"])
 
     for kanji_data in list_to_csv:
         kanji = kanji_data["kanji"]
