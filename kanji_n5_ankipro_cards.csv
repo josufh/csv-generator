@@ -1,3 +1,16 @@
-Front,Back
-<b>先</b>,<b>セン</b><br>先生<br>先月<br><br><b>さき</b><br>お先に失礼します
-<b>生</b>,<b>セイ　ショウ</b><br>生徒　生活　誕生日<br><br><b></b><br>
+<b>先</b>,<b>セン</b><br>先生<br>先月<br><br><b>さき</b><br>お先に失礼します<br>
+<b>生</b>,<b>セイ　ショウ</b><br>生徒<br>生活<br>誕生日<br><br><b></b><br><br>
+<b>学</b>,<b>ガク</b><br>学生<br>学校<br><br><b></b><br><br>
+<b>人</b>,<b>ジン　ニン</b><br>日本人<br>外国人<br>～人<br><br><b>ひと</b><br>人<br>一人、二人、三人、四人…<br>大人
+<b>国</b>,<b>コク</b><br>外国<br><br><b>くに</b><br>国<br>
+<b>男</b>,<b></b><br><br><br><b>おとこ</b><br>男の人<br>男の子<br>
+<b>女</b>,<b>ジョ</b><br>彼女<br><br><b>おんな</b><br>女の人<br>女の子<br>
+<b>子</b>,<b></b><br><br><br><b>こ</b><br>子供<br>
+<b>友</b>,<b></b><br><br><br><b>とも</b><br>友達<br>
+<b>父</b>,<b></b><br><br><br><b>ちち</b><br>父<br>お父さん
+<b>母</b>,<b></b><br><br><br><b>はは</b><br>母<br>お母さん
+<b>名</b>,<b>メイ</b><br>有名な<br><br><b>な</b><br>名前<br>
+<b>田</b>,<b></b><br><br><br><b>た</b><br>田中さん、山田さん<br>
+<b>山</b>,<b>サン</b><br>富士山<br><br><b>やま</b><br>山<br>
+<b>語</b>,<b>ゴ</b><br>日本語<br>英語<br><br><b></b><br><br>
+<b>本</b>,<b>ホン</b><br>本<br>日本<br>～本<br><br><b></b><br><br>
