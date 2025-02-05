@@ -223,6 +223,126 @@ kanji_n5 = [
         "examples_kunyomi": "",
         "examples_irregular": ""
     },
+    {
+        "kanji": "少",
+        "onyomi": "",
+        "kunyomi": "すこ（し）　すく（ない）",
+        "examples_onyomi": "",
+        "examples_kunyomi": "少し　少ない",
+        "examples_irregular": ""
+    },
+    {
+        "kanji": "多",
+        "onyomi": "",
+        "kunyomi": "おお（い）",
+        "examples_onyomi": "",
+        "examples_kunyomi": "多い",
+        "examples_irregular": ""
+    },
+    {
+        "kanji": "小",
+        "onyomi": "ショウ",
+        "kunyomi": "ちい（さい）",
+        "examples_onyomi": "小学校",
+        "examples_kunyomi": "小さい",
+        "examples_irregular": ""
+    },
+    {
+        "kanji": "大",
+        "onyomi": "ダイ　タイ",
+        "kunyomi": "おお（きい）",
+        "examples_onyomi": "大学　大変な　大切な",
+        "examples_kunyomi": "大きい",
+        "examples_irregular": ""
+    },
+    {
+        "kanji": "安",
+        "onyomi": "アン",
+        "kunyomi": "やす（い）",
+        "examples_onyomi": "安全な　安心する",
+        "examples_kunyomi": "安い",
+        "examples_irregular": ""
+    },
+    {
+        "kanji": "高",
+        "onyomi": "コウ",
+        "kunyomi": "たか（い）",
+        "examples_onyomi": "高校",
+        "examples_kunyomi": "高い",
+        "examples_irregular": ""
+    },
+    {
+        "kanji": "新",
+        "onyomi": "シン",
+        "kunyomi": "あたら（しい）",
+        "examples_onyomi": "新聞",
+        "examples_kunyomi": "新しい",
+        "examples_irregular": ""
+    },
+    {
+        "kanji": "古",
+        "onyomi": "",
+        "kunyomi": "ふる（い）",
+        "examples_onyomi": "",
+        "examples_kunyomi": "古い",
+        "examples_irregular": ""
+    },
+    {
+        "kanji": "早",
+        "onyomi": "",
+        "kunyomi": "はや（い）",
+        "examples_onyomi": "",
+        "examples_kunyomi": "早い",
+        "examples_irregular": ""
+    },
+    {
+        "kanji": "長",
+        "onyomi": "チョウ",
+        "kunyomi": "なが（い）",
+        "examples_onyomi": "社長",
+        "examples_kunyomi": "長い",
+        "examples_irregular": ""
+    },
+    {
+        "kanji": "円",
+        "onyomi": "エン",
+        "kunyomi": "",
+        "examples_onyomi": "円",
+        "examples_kunyomi": "",
+        "examples_irregular": ""
+    },
+    {
+        "kanji": "校",
+        "onyomi": "コウ",
+        "kunyomi": "",
+        "examples_onyomi": "学校　校長",
+        "examples_kunyomi": "",
+        "examples_irregular": ""
+    },
+    {
+        "kanji": "社",
+        "onyomi": "シャ",
+        "kunyomi": "",
+        "examples_onyomi": "会社　社員",
+        "examples_kunyomi": "",
+        "examples_irregular": ""
+    },
+    {
+        "kanji": "中",
+        "onyomi": "チュウ　ジュウ",
+        "kunyomi": "なか",
+        "examples_onyomi": "中学校　一日中",
+        "examples_kunyomi": "中",
+        "examples_irregular": ""
+    },
+    {
+        "kanji": "聞",
+        "onyomi": "ブン",
+        "kunyomi": "き（く・こえる）",
+        "examples_onyomi": "新聞",
+        "examples_kunyomi": "聞く　聞こえる",
+        "examples_irregular": ""
+    },
 ]
 
 kanji_template = [
