@@ -343,6 +343,110 @@ kanji_n5 = [
         "examples_kunyomi": "聞く　聞こえる",
         "examples_irregular": ""
     },
+    {
+        "kanji": "駅",
+        "onyomi": "エキ",
+        "kunyomi": "",
+        "examples_onyomi": "駅",
+        "examples_kunyomi": "",
+        "examples_irregular": ""
+    },
+    {
+        "kanji": "口",
+        "onyomi": "",
+        "kunyomi": "くち　ぐち",
+        "examples_onyomi": "",
+        "examples_kunyomi": "口",
+        "examples_irregular": ""
+    },
+    {
+        "kanji": "出",
+        "onyomi": "",
+        "kunyomi": "で（る）　だ（す）",
+        "examples_onyomi": "",
+        "examples_kunyomi": "出る　出かける　出す　出口",
+        "examples_irregular": ""
+    },
+    {
+        "kanji": "入",
+        "onyomi": "",
+        "kunyomi": "はい（る）　い（る）　い（れる）",
+        "examples_onyomi": "",
+        "examples_kunyomi": "入る　入口　入れる",
+        "examples_irregular": ""
+    },
+    {
+        "kanji": "東",
+        "onyomi": "トウ",
+        "kunyomi": "ひがし",
+        "examples_onyomi": "東京",
+        "examples_kunyomi": "東　東口",
+        "examples_irregular": ""
+    },
+    {
+        "kanji": "西",
+        "onyomi": "セイ",
+        "kunyomi": "にし",
+        "examples_onyomi": "西洋",
+        "examples_kunyomi": "西　西口",
+        "examples_irregular": ""
+    },
+    {
+        "kanji": "南",
+        "onyomi": "",
+        "kunyomi": "みなみ",
+        "examples_onyomi": "",
+        "examples_kunyomi": "南　南口",
+        "examples_irregular": ""
+    },
+    {
+        "kanji": "北",
+        "onyomi": "ホク",
+        "kunyomi": "きた",
+        "examples_onyomi": "北海道",
+        "examples_kunyomi": "北　北口",
+        "examples_irregular": ""
+    },
+    {
+        "kanji": "上",
+        "onyomi": "ジョウ",
+        "kunyomi": "うえ　うわ",
+        "examples_onyomi": "上手な",
+        "examples_kunyomi": "上　上着",
+        "examples_irregular": ""
+    },
+    {
+        "kanji": "下",
+        "onyomi": "カ",
+        "kunyomi": "した",
+        "examples_onyomi": "地下鉄",
+        "examples_kunyomi": "下",
+        "examples_irregular": "下手"
+    },
+    {
+        "kanji": "左",
+        "onyomi": "",
+        "kunyomi": "ひだり",
+        "examples_onyomi": "",
+        "examples_kunyomi": "ひだり",
+        "examples_irregular": ""
+    },
+    {
+        "kanji": "右",
+        "onyomi": "",
+        "kunyomi": "みぎ",
+        "examples_onyomi": "",
+        "examples_kunyomi": "右",
+        "examples_irregular": ""
+    },
+    {
+        "kanji": "外",
+        "onyomi": "ガイ",
+        "kunyomi": "そと",
+        "examples_onyomi": "外国　外国人",
+        "examples_kunyomi": "外",
+        "examples_irregular": ""
+    },
 ]
 
 kanji_template = [
