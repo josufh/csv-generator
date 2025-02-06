@@ -567,6 +567,142 @@ kanji_n5 = [
         "examples_kunyomi": "車",
         "examples_irregular": ""
     },
+    {
+        "kanji": "花",
+        "onyomi": "カ",
+        "kunyomi": "はな",
+        "examples_onyomi": "花瓶",
+        "examples_kunyomi": "花　花見　花火",
+        "examples_irregular": ""
+    },
+    {
+        "kanji": "天",
+        "onyomi": "テン",
+        "kunyomi": "",
+        "examples_onyomi": "天気",
+        "examples_kunyomi": "",
+        "examples_irregular": ""
+    },
+    {
+        "kanji": "気",
+        "onyomi": "キ",
+        "kunyomi": "",
+        "examples_onyomi": "電気　病気　元気",
+        "examples_kunyomi": "",
+        "examples_irregular": ""
+    },
+    {
+        "kanji": "耳",
+        "onyomi": "",
+        "kunyomi": "みみ",
+        "examples_onyomi": "",
+        "examples_kunyomi": "耳",
+        "examples_irregular": ""
+    },
+    {
+        "kanji": "手",
+        "onyomi": "",
+        "kunyomi": "て",
+        "examples_onyomi": "",
+        "examples_kunyomi": "手　お手洗い",
+        "examples_irregular": "上手な　下手な"
+    },
+    {
+        "kanji": "足",
+        "onyomi": "",
+        "kunyomi": "あし　た（りる・す）",
+        "examples_onyomi": "",
+        "examples_kunyomi": "足　足りる　足す",
+        "examples_irregular": ""
+    },
+    {
+        "kanji": "目",
+        "onyomi": "",
+        "kunyomi": "め",
+        "examples_onyomi": "",
+        "examples_kunyomi": "目　一つ目、二つ目、三つ目…",
+        "examples_irregular": ""
+    },
+    {
+        "kanji": "力",
+        "onyomi": "",
+        "kunyomi": "ちから",
+        "examples_onyomi": "",
+        "examples_kunyomi": "力　力持ち",
+        "examples_irregular": ""
+    },
+    {
+        "kanji": "川",
+        "onyomi": "",
+        "kunyomi": "かわ",
+        "examples_onyomi": "",
+        "examples_kunyomi": "かわ",
+        "examples_irregular": ""
+    },
+    {
+        "kanji": "牛",
+        "onyomi": "ギュウ",
+        "kunyomi": "うし",
+        "examples_onyomi": "牛肉　牛乳",
+        "examples_kunyomi": "牛",
+        "examples_irregular": ""
+    },
+    {
+        "kanji": "魚",
+        "onyomi": "",
+        "kunyomi": "さかな",
+        "examples_onyomi": "",
+        "examples_kunyomi": "魚　魚屋",
+        "examples_irregular": ""
+    },
+    {
+        "kanji": "店",
+        "onyomi": "テン",
+        "kunyomi": "みせ",
+        "examples_onyomi": "喫茶店",
+        "examples_kunyomi": "店",
+        "examples_irregular": ""
+    },
+    {
+        "kanji": "道",
+        "onyomi": "",
+        "kunyomi": "みち",
+        "examples_onyomi": "",
+        "examples_kunyomi": "道",
+        "examples_irregular": ""
+    },
+    {
+        "kanji": "門",
+        "onyomi": "モン",
+        "kunyomi": "",
+        "examples_onyomi": "門　専門",
+        "examples_kunyomi": "",
+        "examples_irregular": ""
+    },
+    {
+        "kanji": "雨",
+        "onyomi": "",
+        "kunyomi": "あめ",
+        "examples_onyomi": "",
+        "examples_kunyomi": "雨",
+        "examples_irregular": ""
+    },
+    {
+        "kanji": "空",
+        "onyomi": "クウ",
+        "kunyomi": "そら",
+        "examples_onyomi": "空気　空港",
+        "examples_kunyomi": "空",
+        "examples_irregular": ""
+    },
+    {
+        "kanji": "白",
+        "onyomi": "",
+        "kunyomi": "しろ（い）",
+        "examples_onyomi": "",
+        "examples_kunyomi": "白　白い",
+        "examples_irregular": ""
+    },
 ]
 
 kanji_template = [
