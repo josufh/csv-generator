@@ -447,6 +447,126 @@ kanji_n5 = [
         "examples_kunyomi": "外",
         "examples_irregular": ""
     },
+    {
+        "kanji": "休",
+        "onyomi": "",
+        "kunyomi": "やす（む）",
+        "examples_onyomi": "",
+        "examples_kunyomi": "休む　休み　昼休み",
+        "examples_irregular": ""
+    },
+    {
+        "kanji": "見",
+        "onyomi": "ケン",
+        "kunyomi": "み（る・える・せる）",
+        "examples_onyomi": "見学　見物",
+        "examples_kunyomi": "見る　見える　見せる",
+        "examples_irregular": ""
+    },
+    {
+        "kanji": "言",
+        "onyomi": "",
+        "kunyomi": "い（う）　こと",
+        "examples_onyomi": "",
+        "examples_kunyomi": "言う　言葉",
+        "examples_irregular": ""
+    },
+    {
+        "kanji": "行",
+        "onyomi": "コウ",
+        "kunyomi": "い（く）",
+        "examples_onyomi": "銀行　旅行",
+        "examples_kunyomi": "行く",
+        "examples_irregular": ""
+    },
+    {
+        "kanji": "書",
+        "onyomi": "ショ",
+        "kunyomi": "か（く）",
+        "examples_onyomi": "辞書",
+        "examples_kunyomi": "書く",
+        "examples_irregular": ""
+    },
+    {
+        "kanji": "読",
+        "onyomi": "",
+        "kunyomi": "よ（む）",
+        "examples_onyomi": "",
+        "examples_kunyomi": "読む",
+        "examples_irregular": ""
+    },
+    {
+        "kanji": "買",
+        "onyomi": "",
+        "kunyomi": "か（う）",
+        "examples_onyomi": "",
+        "examples_kunyomi": "買う　買い物",
+        "examples_irregular": ""
+    },
+    {
+        "kanji": "来",
+        "onyomi": "ライ",
+        "kunyomi": "く（る）",
+        "examples_onyomi": "来月　来週",
+        "examples_kunyomi": "来る",
+        "examples_irregular": "来ない　来た"
+    },
+    {
+        "kanji": "立",
+        "onyomi": "",
+        "kunyomi": "た（つ）",
+        "examples_onyomi": "",
+        "examples_kunyomi": "立つ",
+        "examples_irregular": ""
+    },
+    {
+        "kanji": "食",
+        "onyomi": "ショク",
+        "kunyomi": "た（べる）",
+        "examples_onyomi": "食事　食堂　食料品",
+        "examples_kunyomi": "食べる　食べ物",
+        "examples_irregular": ""
+    },
+    {
+        "kanji": "飲",
+        "onyomi": "",
+        "kunyomi": "の（む）",
+        "examples_onyomi": "",
+        "examples_kunyomi": "飲む　飲み物",
+        "examples_irregular": ""
+    },
+    {
+        "kanji": "会",
+        "onyomi": "カイ",
+        "kunyomi": "あ（う）",
+        "examples_onyomi": "会社　会話",
+        "examples_kunyomi": "会う",
+        "examples_irregular": ""
+    },
+    {
+        "kanji": "電",
+        "onyomi": "デン",
+        "kunyomi": "",
+        "examples_onyomi": "電車　電気",
+        "examples_kunyomi": "",
+        "examples_irregular": ""
+    },
+    {
+        "kanji": "話",
+        "onyomi": "ワ",
+        "kunyomi": "はな（す）　はなし",
+        "examples_onyomi": "電話　会話",
+        "examples_kunyomi": "話す　話",
+        "examples_irregular": ""
+    },
+    {
+        "kanji": "車",
+        "onyomi": "シャ",
+        "kunyomi": "くるま",
+        "examples_onyomi": "自動車　自転車",
+        "examples_kunyomi": "車",
+        "examples_irregular": ""
+    },
 ]
 
 kanji_template = [
